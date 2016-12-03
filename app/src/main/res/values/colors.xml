@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#040404</color>
+    <color name="colorPrimaryDark">#020202</color>
+    <color name="colorAccent">#000000</color>
+    <color name="capstone_background">#F04B2D</color>
+    <color name="app_background">#3192B6</color>
+    <color name="button_background">#F88853</color>
+</resources>
